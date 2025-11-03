@@ -1,8 +1,9 @@
 - DIATAS
 - @diatas 
 - Developper Web App
-- Python (DJANGO)
+- Python (DJANGO, fastapi)
 - PHP (Laravel, Code Igniter)
+- Mobile (ionic)
 - diatas2@gmail.com
 
 <!---
